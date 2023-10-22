@@ -1,0 +1,32 @@
+body{
+    background-color:cadetblue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+div offcanvas-body{
+color:chartreuse
+}
+
+h3{ text-align: center;
+color:yellowgreen;
+margin: 10px;}
+.container2{
+    background-color:papayawhip;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+margin-left: 40px;
+margin-right: 40px;}
+
+.subheading{ text-align: center;
+    color: purple;
+    margin: 10px;
+}
+
+@media(max-width:982px){
+    .sidebar{
+        background-color:rgba(255,255,255, 0.15);
+    }      
+}
